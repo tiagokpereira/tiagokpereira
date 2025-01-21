@@ -1,11 +1,23 @@
-## Hi there 👋
+## Olá 👋
 
+- 🔭 Hoje trabalho com Infraestrutura de TI ...
+-  🌱 Desen em desen ...
+
+
+
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-vsphere-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original-wordmark.svg" />
+
+
+          
 <!--
 **tiagokpereira/tiagokpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Hoje trabalho com Infraestrutura de TI ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
